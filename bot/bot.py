@@ -142,7 +142,7 @@ def create_initial_cfg():
         'enabled_plugins': ['plugins',
                             'help',
                             'media'],
-        'sudo_users': [122774063],
+        'sudo_users': [94477327],
         'disabled_channels': [],
         'talk_oneself': False,
     }
